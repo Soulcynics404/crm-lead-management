@@ -114,6 +114,13 @@ Before you begin, ensure you have:
 - **Firebase Project** with Google Sign-In enabled
 - **Git** (for version control)
 
+> ⚠️ **IMPORTANT:** You **must** start the MariaDB/MySQL service before running the application. This is required every time after a system reboot (unless enabled on boot):
+>
+> ```bash
+> sudo systemctl start mariadb    # Start the database service
+> sudo systemctl enable mariadb   # (Optional) Auto-start on boot
+> ```
+
 ---
 
 ## ⚙️ Setup Instructions
@@ -140,7 +147,17 @@ sudo apt-get install -y php8.2-xml php8.2-mbstring php8.2-curl php8.2-zip php8.2
 # Note: Kali Linux ships PHP 8.4 — install php8.4-xml etc. instead
 ```
 
-### 4. Create MySQL Database
+### 4. Start MariaDB/MySQL & Create Database
+
+```bash
+# Start the database service (required!)
+sudo systemctl start mariadb
+
+# Enable auto-start on boot (recommended)
+sudo systemctl enable mariadb
+```
+
+Then create the database and user:
 
 ```bash
 sudo mysql
@@ -148,10 +165,14 @@ sudo mysql
 ```sql
 CREATE DATABASE crm_lead CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 CREATE USER 'crm_user'@'localhost' IDENTIFIED BY 'crm_password';
+CREATE USER 'crm_user'@'127.0.0.1' IDENTIFIED BY 'crm_password';
 GRANT ALL PRIVILEGES ON crm_lead.* TO 'crm_user'@'localhost';
+GRANT ALL PRIVILEGES ON crm_lead.* TO 'crm_user'@'127.0.0.1';
 FLUSH PRIVILEGES;
 EXIT;
 ```
+
+> **Tip:** You can also run `./setup.sh` to automate all of the above steps.
 
 ### 5. Configure Environment
 
@@ -308,6 +329,7 @@ CRM LEAD/
 ├── routes/
 │   ├── web.php                           # Web routes (session auth)
 │   └── api.php                           # API routes (token auth)
+├── setup.sh                              # Auto setup & health check script
 ├── .env.example                          # Environment template
 ├── .gitignore                            # Git ignore rules
 ├── API_DOCUMENTATION.md                  # REST API docs
@@ -334,6 +356,47 @@ CRM LEAD/
 - **Input Validation** — Server-side validation on all inputs
 - **SQL Injection Prevention** — Eloquent ORM with parameterized queries
 - **XSS Protection** — Blade's `{{ }}` auto-escapes output
+
+---
+
+## 🛠️ Troubleshooting
+
+### Database Connection Refused (`SQLSTATE[HY000] [2002]`)
+
+This error means MariaDB/MySQL is not running. Fix it by starting the service:
+
+```bash
+sudo systemctl start mariadb
+sudo systemctl enable mariadb   # Prevent this after reboot
+```
+
+### Database Access Denied (`SQLSTATE[HY000] [1045]`)
+
+The database user credentials in `.env` don't match. Re-create the user:
+
+```bash
+sudo mysql -e "CREATE USER IF NOT EXISTS 'crm_user'@'127.0.0.1' IDENTIFIED BY 'crm_password';"
+sudo mysql -e "GRANT ALL PRIVILEGES ON crm_lead.* TO 'crm_user'@'127.0.0.1';"
+sudo mysql -e "FLUSH PRIVILEGES;"
+```
+
+### Database Not Found (`SQLSTATE[HY000] [1049]`)
+
+The `crm_lead` database doesn't exist. Create it:
+
+```bash
+sudo mysql -e "CREATE DATABASE crm_lead CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;"
+php artisan migrate
+```
+
+### Quick Fix — Run Setup Script
+
+The included `setup.sh` script automatically diagnoses and fixes all database issues:
+
+```bash
+chmod +x setup.sh
+./setup.sh
+```
 
 ---
 
