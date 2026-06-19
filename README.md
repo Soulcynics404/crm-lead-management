@@ -2,7 +2,7 @@
 
 A professional CRM Lead Management Admin Panel built with **Laravel 12**, **MySQL**, **Firebase Authentication (Google Sign-In)**, and **Blade Templates**.
 
-> 🎓 **College Project** — Built as a faculty-assigned CRM Lead Management System
+> 🎓 **Demo Project** — Built a CRM Lead Management System
 
 > 🛡️ **Author:** [Harsshh (@Soulcynics404)](https://github.com/Soulcynics404) | *"Breaking systems to make them secure."*
 
