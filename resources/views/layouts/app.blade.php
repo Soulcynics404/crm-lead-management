@@ -1,8 +1,17 @@
+{{--
+    HK CRM Lead Management System
+    @author    Harsshh (@Soulcynics404)
+    @github    https://github.com/Soulcynics404/crm-lead-management
+    @quote     "Breaking systems to make them secure."
+    @copyright 2026 Harsshh. All rights reserved.
+    NOTICE: Do not copy or redistribute without attribution.
+--}}
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Harsshh (@Soulcynics404)">
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <title>@yield('title', 'HK CRM') - Lead Management</title>
     <meta name="description" content="HK CRM - Professional Lead Management System">

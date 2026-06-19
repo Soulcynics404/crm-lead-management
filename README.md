@@ -4,6 +4,8 @@ A professional CRM Lead Management Admin Panel built with **Laravel 12**, **MySQ
 
 > 🎓 **College Project** — Built as a faculty-assigned CRM Lead Management System
 
+> 🛡️ **Author:** [Harsshh (@Soulcynics404)](https://github.com/Soulcynics404) | *"Breaking systems to make them secure."*
+
 ---
 
 ## ✨ Features
@@ -382,8 +384,15 @@ This creates a public URL you can share with anyone!
 
 ---
 
-## 📝 License
+## 📝 License & Author
+
+© 2026 **Harsshh** ([@Soulcynics404](https://github.com/Soulcynics404))
+
+> *"Breaking systems to make them secure."*
 
 This project is created as a college assignment for CRM Lead Management.
 
-**Built with ❤️ using Laravel 12 + Firebase + MySQL**
+⚠️ **Do not copy, redistribute, or strip authorship without proper attribution.**
+See [LICENSE](./LICENSE) for details.
+
+**Built with ❤️ by Harsshh using Laravel 12 + Firebase + MySQL**
