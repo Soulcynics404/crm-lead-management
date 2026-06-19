@@ -1,0 +1,501 @@
+First Name,Last Name,Email,Phone,Company,Status
+Linda,Williams,linda.williams15@example.com,555-615-6024,Cyberdyne Systems,Qualified
+Jessica,Brown,jessica.brown19@example.com,555-765-5184,Hooli,Qualified
+Thomas,Jones,thomas.jones28@example.com,555-551-9215,Acme Corp,Lost
+James,Taylor,james.taylor55@example.com,555-852-4208,Stark Industries,New
+Richard,Moore,richard.moore2@example.com,555-760-5751,Global Tech,Qualified
+Karen,Gonzalez,karen.gonzalez76@example.com,555-451-6590,Stark Industries,Lost
+John,Jackson,john.jackson35@example.com,555-857-1235,Cyberdyne Systems,New
+Sarah,Moore,sarah.moore21@example.com,555-536-4778,Cyberdyne Systems,New
+John,Jackson,john.jackson49@example.com,555-509-9889,Umbrella Corp,Contacted
+William,Davis,william.davis55@example.com,555-780-6560,Global Tech,Contacted
+Susan,Lopez,susan.lopez78@example.com,555-121-9851,Pied Piper,Qualified
+Patricia,Lopez,patricia.lopez43@example.com,555-736-6867,Umbrella Corp,Qualified
+James,Wilson,james.wilson44@example.com,555-717-5261,Initech,Lost
+Jennifer,Johnson,jennifer.johnson82@example.com,555-559-7487,Wayne Enterprises,Contacted
+Michael,Miller,michael.miller55@example.com,555-430-9085,Pied Piper,Lost
+Michael,Miller,michael.miller1@example.com,555-356-8049,Cyberdyne Systems,New
+Karen,Johnson,karen.johnson10@example.com,555-460-6790,Stark Industries,Lost
+Charles,Wilson,charles.wilson91@example.com,555-613-8408,Global Tech,Qualified
+Barbara,Smith,barbara.smith74@example.com,555-253-4798,Wayne Enterprises,New
+Jennifer,Martinez,jennifer.martinez90@example.com,555-264-2530,Pied Piper,Contacted
+William,Davis,william.davis81@example.com,555-503-1937,Acme Corp,New
+James,Rodriguez,james.rodriguez39@example.com,555-291-1008,Stark Industries,New
+Jennifer,Taylor,jennifer.taylor2@example.com,555-960-9540,Massive Dynamic,Qualified
+Mary,Jones,mary.jones71@example.com,555-260-7716,Hooli,Contacted
+Joseph,Jones,joseph.jones57@example.com,555-399-1205,Initech,New
+Mary,Martinez,mary.martinez45@example.com,555-677-1816,Massive Dynamic,Lost
+Susan,Garcia,susan.garcia10@example.com,555-511-8700,Massive Dynamic,Contacted
+Karen,Jones,karen.jones19@example.com,555-750-5672,Umbrella Corp,New
+Robert,Brown,robert.brown79@example.com,555-921-1087,Acme Corp,Contacted
+Thomas,Martin,thomas.martin53@example.com,555-110-5784,Wayne Enterprises,Qualified
+Michael,Johnson,michael.johnson20@example.com,555-636-4211,Initech,Qualified
+Linda,Miller,linda.miller25@example.com,555-339-9209,Wayne Enterprises,Qualified
+John,Jackson,john.jackson77@example.com,555-489-2442,Umbrella Corp,Qualified
+Richard,Hernandez,richard.hernandez4@example.com,555-424-2432,Massive Dynamic,Qualified
+William,Gonzalez,william.gonzalez88@example.com,555-414-3415,Hooli,Qualified
+Elizabeth,Johnson,elizabeth.johnson17@example.com,555-370-5908,Pied Piper,New
+Karen,Hernandez,karen.hernandez35@example.com,555-171-1268,Acme Corp,Contacted
+Jennifer,Miller,jennifer.miller86@example.com,555-217-7512,Stark Industries,Qualified
+Karen,Davis,karen.davis91@example.com,555-493-9317,Acme Corp,Lost
+Jessica,Taylor,jessica.taylor9@example.com,555-274-4625,Umbrella Corp,Qualified
+David,Martinez,david.martinez61@example.com,555-135-3410,Stark Industries,New
+Jessica,Garcia,jessica.garcia62@example.com,555-881-9718,Pied Piper,Lost
+Joseph,Jones,joseph.jones51@example.com,555-257-5790,Global Tech,Qualified
+Jennifer,Johnson,jennifer.johnson98@example.com,555-405-2052,Massive Dynamic,Qualified
+Jennifer,Brown,jennifer.brown84@example.com,555-403-3136,Pied Piper,Contacted
+Thomas,Davis,thomas.davis57@example.com,555-141-5024,Hooli,Lost
+Patricia,Garcia,patricia.garcia5@example.com,555-591-4142,Umbrella Corp,Lost
+Karen,Gonzalez,karen.gonzalez76@example.com,555-813-4165,Cyberdyne Systems,Qualified
+Richard,Rodriguez,richard.rodriguez71@example.com,555-298-6567,Initech,Qualified
+Patricia,Davis,patricia.davis62@example.com,555-558-1520,Cyberdyne Systems,New
+Robert,Jackson,robert.jackson60@example.com,555-266-3029,Cyberdyne Systems,Qualified
+James,Taylor,james.taylor40@example.com,555-736-4879,Initech,Qualified
+Jessica,Martinez,jessica.martinez44@example.com,555-699-2845,Umbrella Corp,New
+Patricia,Lopez,patricia.lopez35@example.com,555-156-4257,Acme Corp,Lost
+Richard,Moore,richard.moore3@example.com,555-934-4797,Umbrella Corp,Qualified
+Barbara,Williams,barbara.williams7@example.com,555-880-9747,Pied Piper,Contacted
+Charles,Smith,charles.smith57@example.com,555-372-6327,Stark Industries,Qualified
+Karen,Martin,karen.martin83@example.com,555-256-9080,Cyberdyne Systems,Qualified
+Charles,Lopez,charles.lopez32@example.com,555-793-6400,Pied Piper,Lost
+Joseph,Smith,joseph.smith84@example.com,555-810-4426,Stark Industries,Qualified
+Linda,Taylor,linda.taylor88@example.com,555-197-2553,Hooli,Contacted
+William,Martin,william.martin31@example.com,555-528-1687,Massive Dynamic,Lost
+Jessica,Miller,jessica.miller19@example.com,555-686-6613,Global Tech,Lost
+Susan,Anderson,susan.anderson7@example.com,555-210-1237,Stark Industries,Lost
+John,Johnson,john.johnson98@example.com,555-684-8413,Stark Industries,New
+Mary,Davis,mary.davis11@example.com,555-796-9573,Hooli,Lost
+David,Wilson,david.wilson5@example.com,555-555-3878,Wayne Enterprises,New
+Robert,Brown,robert.brown62@example.com,555-918-9299,Umbrella Corp,Contacted
+Linda,Anderson,linda.anderson91@example.com,555-826-3266,Global Tech,New
+Thomas,Garcia,thomas.garcia3@example.com,555-190-2103,Global Tech,New
+Robert,Jones,robert.jones61@example.com,555-247-4891,Acme Corp,Contacted
+Linda,Anderson,linda.anderson77@example.com,555-671-3648,Cyberdyne Systems,Qualified
+Linda,Miller,linda.miller41@example.com,555-911-8035,Initech,Contacted
+Jessica,Williams,jessica.williams25@example.com,555-740-8848,Pied Piper,New
+Patricia,Rodriguez,patricia.rodriguez91@example.com,555-864-7648,Hooli,Qualified
+James,Jackson,james.jackson69@example.com,555-242-1847,Hooli,Contacted
+Barbara,Miller,barbara.miller1@example.com,555-369-6061,Cyberdyne Systems,Contacted
+Karen,Anderson,karen.anderson12@example.com,555-531-1357,Acme Corp,Lost
+Michael,Moore,michael.moore10@example.com,555-255-8243,Wayne Enterprises,Lost
+Richard,Hernandez,richard.hernandez85@example.com,555-168-5837,Global Tech,New
+Jessica,Thomas,jessica.thomas28@example.com,555-234-5448,Initech,Contacted
+Joseph,Smith,joseph.smith28@example.com,555-894-9435,Umbrella Corp,New
+Mary,Martin,mary.martin64@example.com,555-164-3568,Pied Piper,Lost
+William,Wilson,william.wilson10@example.com,555-623-1887,Initech,Qualified
+Mary,Hernandez,mary.hernandez81@example.com,555-683-6053,Initech,Contacted
+Patricia,Miller,patricia.miller65@example.com,555-421-8337,Umbrella Corp,New
+William,Miller,william.miller76@example.com,555-847-8050,Acme Corp,New
+Robert,Taylor,robert.taylor59@example.com,555-298-1723,Acme Corp,New
+Michael,Jackson,michael.jackson1@example.com,555-569-5601,Acme Corp,Contacted
+Michael,Gonzalez,michael.gonzalez6@example.com,555-133-4304,Stark Industries,Qualified
+Jessica,Jones,jessica.jones94@example.com,555-530-8601,Stark Industries,Qualified
+Patricia,Hernandez,patricia.hernandez89@example.com,555-878-7551,Umbrella Corp,Qualified
+Susan,Taylor,susan.taylor35@example.com,555-707-6284,Cyberdyne Systems,Contacted
+Michael,Garcia,michael.garcia4@example.com,555-616-7734,Wayne Enterprises,Contacted
+Richard,Martinez,richard.martinez38@example.com,555-536-5414,Initech,Contacted
+Susan,Jackson,susan.jackson3@example.com,555-822-6451,Acme Corp,Qualified
+Sarah,Gonzalez,sarah.gonzalez96@example.com,555-674-3387,Wayne Enterprises,Contacted
+Robert,Miller,robert.miller27@example.com,555-780-1562,Global Tech,Lost
+Elizabeth,Lopez,elizabeth.lopez58@example.com,555-264-9553,Pied Piper,Contacted
+Charles,Rodriguez,charles.rodriguez26@example.com,555-384-5011,Global Tech,Lost
+William,Anderson,william.anderson13@example.com,555-578-6581,Stark Industries,New
+Susan,Taylor,susan.taylor4@example.com,555-518-2593,Umbrella Corp,Lost
+Mary,Smith,mary.smith17@example.com,555-565-3100,Stark Industries,Contacted
+Elizabeth,Davis,elizabeth.davis61@example.com,555-902-6054,Stark Industries,Contacted
+Jennifer,Martin,jennifer.martin84@example.com,555-964-2514,Wayne Enterprises,Qualified
+Barbara,Brown,barbara.brown43@example.com,555-413-7577,Initech,Lost
+John,Jackson,john.jackson99@example.com,555-934-1346,Massive Dynamic,New
+Susan,Miller,susan.miller71@example.com,555-529-9389,Umbrella Corp,Lost
+Karen,Brown,karen.brown63@example.com,555-600-1591,Massive Dynamic,Contacted
+Jennifer,Rodriguez,jennifer.rodriguez77@example.com,555-202-7833,Initech,Lost
+Elizabeth,Lopez,elizabeth.lopez83@example.com,555-679-4316,Global Tech,Qualified
+Michael,Davis,michael.davis48@example.com,555-744-5192,Stark Industries,Contacted
+Mary,Thomas,mary.thomas49@example.com,555-564-7823,Cyberdyne Systems,Lost
+Linda,Williams,linda.williams88@example.com,555-875-4401,Hooli,Contacted
+Jessica,Smith,jessica.smith29@example.com,555-134-6339,Cyberdyne Systems,Qualified
+Patricia,Taylor,patricia.taylor58@example.com,555-117-5412,Cyberdyne Systems,Qualified
+Sarah,Lopez,sarah.lopez26@example.com,555-893-8458,Umbrella Corp,Qualified
+Linda,Gonzalez,linda.gonzalez91@example.com,555-655-3387,Umbrella Corp,Contacted
+William,Gonzalez,william.gonzalez83@example.com,555-412-9953,Initech,Lost
+Elizabeth,Jones,elizabeth.jones99@example.com,555-481-5797,Stark Industries,New
+David,Miller,david.miller65@example.com,555-233-2168,Stark Industries,Qualified
+Jennifer,Gonzalez,jennifer.gonzalez57@example.com,555-693-8279,Pied Piper,Qualified
+Robert,Rodriguez,robert.rodriguez62@example.com,555-512-6438,Wayne Enterprises,New
+David,Hernandez,david.hernandez1@example.com,555-607-2047,Umbrella Corp,Contacted
+Robert,Thomas,robert.thomas15@example.com,555-574-2378,Massive Dynamic,Qualified
+William,Moore,william.moore70@example.com,555-372-5808,Massive Dynamic,Qualified
+Susan,Martinez,susan.martinez84@example.com,555-876-2324,Initech,Contacted
+William,Jones,william.jones51@example.com,555-467-1526,Cyberdyne Systems,Qualified
+Susan,Taylor,susan.taylor9@example.com,555-987-1232,Umbrella Corp,Contacted
+James,Martin,james.martin42@example.com,555-662-2261,Acme Corp,Lost
+Linda,Wilson,linda.wilson59@example.com,555-986-5272,Initech,Contacted
+Barbara,Lopez,barbara.lopez30@example.com,555-260-8891,Umbrella Corp,Contacted
+Patricia,Taylor,patricia.taylor56@example.com,555-269-6296,Pied Piper,New
+Mary,Martin,mary.martin23@example.com,555-957-1702,Massive Dynamic,Lost
+Thomas,Williams,thomas.williams25@example.com,555-497-1154,Initech,Qualified
+Michael,Jackson,michael.jackson55@example.com,555-891-1781,Cyberdyne Systems,Contacted
+Patricia,Smith,patricia.smith52@example.com,555-502-3475,Cyberdyne Systems,New
+Mary,Martinez,mary.martinez19@example.com,555-471-7480,Initech,New
+David,Rodriguez,david.rodriguez29@example.com,555-754-8468,Hooli,Lost
+Karen,Martin,karen.martin47@example.com,555-113-3638,Cyberdyne Systems,Qualified
+Charles,Thomas,charles.thomas21@example.com,555-451-9172,Acme Corp,Contacted
+Robert,Taylor,robert.taylor99@example.com,555-598-9552,Umbrella Corp,New
+Thomas,Gonzalez,thomas.gonzalez7@example.com,555-449-7816,Global Tech,Contacted
+Elizabeth,Thomas,elizabeth.thomas23@example.com,555-985-5119,Hooli,New
+Patricia,Wilson,patricia.wilson39@example.com,555-362-3872,Massive Dynamic,New
+Richard,Moore,richard.moore36@example.com,555-612-2796,Initech,Contacted
+Robert,Taylor,robert.taylor4@example.com,555-308-4045,Global Tech,Contacted
+Linda,Lopez,linda.lopez63@example.com,555-531-9531,Acme Corp,New
+Mary,Taylor,mary.taylor51@example.com,555-680-9064,Hooli,Lost
+Jennifer,Gonzalez,jennifer.gonzalez71@example.com,555-877-9522,Acme Corp,Qualified
+Linda,Hernandez,linda.hernandez45@example.com,555-312-9276,Stark Industries,Qualified
+William,Gonzalez,william.gonzalez83@example.com,555-629-4696,Umbrella Corp,Lost
+Susan,Johnson,susan.johnson33@example.com,555-740-8986,Global Tech,Lost
+James,Anderson,james.anderson92@example.com,555-902-2373,Initech,Lost
+John,Taylor,john.taylor88@example.com,555-267-7094,Global Tech,Qualified
+Michael,Wilson,michael.wilson72@example.com,555-780-7609,Cyberdyne Systems,Lost
+Michael,Taylor,michael.taylor83@example.com,555-251-3814,Stark Industries,Lost
+Robert,Martin,robert.martin14@example.com,555-500-9576,Umbrella Corp,Qualified
+Robert,Anderson,robert.anderson38@example.com,555-720-4462,Umbrella Corp,Lost
+Richard,Thomas,richard.thomas19@example.com,555-509-2436,Global Tech,Lost
+William,Wilson,william.wilson36@example.com,555-326-1896,Initech,New
+Sarah,Jackson,sarah.jackson14@example.com,555-825-7577,Cyberdyne Systems,Qualified
+Charles,Hernandez,charles.hernandez26@example.com,555-893-9287,Stark Industries,New
+Jennifer,Smith,jennifer.smith42@example.com,555-310-6270,Cyberdyne Systems,Qualified
+Thomas,Wilson,thomas.wilson97@example.com,555-340-1839,Stark Industries,Contacted
+Michael,Taylor,michael.taylor90@example.com,555-387-9930,Global Tech,Qualified
+Sarah,Miller,sarah.miller70@example.com,555-421-6778,Cyberdyne Systems,Lost
+Joseph,Hernandez,joseph.hernandez11@example.com,555-264-8679,Hooli,New
+Barbara,Lopez,barbara.lopez99@example.com,555-956-6426,Acme Corp,Lost
+Richard,Williams,richard.williams99@example.com,555-907-4728,Wayne Enterprises,New
+Thomas,Martin,thomas.martin70@example.com,555-703-7046,Initech,New
+Thomas,Brown,thomas.brown84@example.com,555-299-5629,Hooli,Lost
+Richard,Miller,richard.miller72@example.com,555-678-1139,Hooli,Qualified
+Joseph,Martinez,joseph.martinez98@example.com,555-835-7501,Wayne Enterprises,Lost
+David,Davis,david.davis41@example.com,555-260-6055,Wayne Enterprises,Qualified
+Patricia,Johnson,patricia.johnson58@example.com,555-421-5826,Cyberdyne Systems,New
+David,Johnson,david.johnson9@example.com,555-985-8278,Cyberdyne Systems,Contacted
+Michael,Gonzalez,michael.gonzalez95@example.com,555-597-4898,Umbrella Corp,New
+Joseph,Jones,joseph.jones65@example.com,555-820-6152,Cyberdyne Systems,Contacted
+Richard,Johnson,richard.johnson93@example.com,555-904-2345,Acme Corp,New
+Karen,Hernandez,karen.hernandez76@example.com,555-700-3987,Cyberdyne Systems,Lost
+Sarah,Thomas,sarah.thomas50@example.com,555-745-3532,Hooli,Lost
+Elizabeth,Hernandez,elizabeth.hernandez75@example.com,555-354-7768,Hooli,Qualified
+Linda,Gonzalez,linda.gonzalez8@example.com,555-165-2569,Acme Corp,Qualified
+Robert,Brown,robert.brown60@example.com,555-251-8911,Initech,Contacted
+Patricia,Anderson,patricia.anderson1@example.com,555-883-7695,Global Tech,Lost
+Charles,Hernandez,charles.hernandez65@example.com,555-575-5038,Hooli,New
+David,Anderson,david.anderson29@example.com,555-376-5352,Massive Dynamic,New
+Patricia,Davis,patricia.davis22@example.com,555-672-7715,Cyberdyne Systems,New
+Barbara,Brown,barbara.brown16@example.com,555-172-1110,Global Tech,Lost
+David,Gonzalez,david.gonzalez45@example.com,555-372-2008,Acme Corp,Lost
+Jessica,Rodriguez,jessica.rodriguez56@example.com,555-928-8301,Cyberdyne Systems,Qualified
+Barbara,Brown,barbara.brown19@example.com,555-521-7456,Global Tech,Qualified
+Sarah,Thomas,sarah.thomas94@example.com,555-120-5427,Global Tech,Lost
+Sarah,Johnson,sarah.johnson68@example.com,555-556-2996,Stark Industries,New
+Mary,Martinez,mary.martinez83@example.com,555-485-5893,Global Tech,Lost
+John,Thomas,john.thomas65@example.com,555-196-7009,Initech,Qualified
+James,Johnson,james.johnson79@example.com,555-235-1601,Global Tech,Lost
+Joseph,Martin,joseph.martin30@example.com,555-996-3366,Initech,Lost
+Patricia,Gonzalez,patricia.gonzalez50@example.com,555-590-3641,Hooli,Contacted
+Elizabeth,Jackson,elizabeth.jackson35@example.com,555-681-3445,Cyberdyne Systems,Qualified
+Linda,Johnson,linda.johnson72@example.com,555-256-7930,Global Tech,Lost
+Thomas,Gonzalez,thomas.gonzalez70@example.com,555-244-3558,Pied Piper,Qualified
+Robert,Martinez,robert.martinez47@example.com,555-686-4138,Umbrella Corp,Contacted
+Joseph,Martin,joseph.martin95@example.com,555-267-5032,Stark Industries,Qualified
+Charles,Lopez,charles.lopez7@example.com,555-549-6073,Stark Industries,Lost
+Michael,Taylor,michael.taylor4@example.com,555-144-1591,Initech,New
+Charles,Brown,charles.brown60@example.com,555-149-7872,Pied Piper,New
+Richard,Martin,richard.martin80@example.com,555-612-6438,Massive Dynamic,Contacted
+David,Taylor,david.taylor96@example.com,555-132-4979,Pied Piper,Contacted
+Robert,Wilson,robert.wilson24@example.com,555-888-9707,Umbrella Corp,Contacted
+Charles,Martin,charles.martin71@example.com,555-526-9204,Umbrella Corp,Lost
+Michael,Miller,michael.miller9@example.com,555-851-2115,Cyberdyne Systems,New
+Linda,Davis,linda.davis44@example.com,555-679-1775,Wayne Enterprises,Qualified
+David,Johnson,david.johnson19@example.com,555-375-1555,Global Tech,Contacted
+Thomas,Johnson,thomas.johnson9@example.com,555-132-2554,Wayne Enterprises,New
+Sarah,Gonzalez,sarah.gonzalez26@example.com,555-866-8073,Umbrella Corp,Lost
+Karen,Jones,karen.jones47@example.com,555-882-9061,Massive Dynamic,New
+Elizabeth,Martinez,elizabeth.martinez29@example.com,555-170-4707,Hooli,Contacted
+Richard,Brown,richard.brown38@example.com,555-719-4293,Acme Corp,Contacted
+Karen,Rodriguez,karen.rodriguez39@example.com,555-736-2874,Acme Corp,New
+Jennifer,Miller,jennifer.miller24@example.com,555-938-9436,Cyberdyne Systems,New
+Michael,Williams,michael.williams59@example.com,555-438-4358,Hooli,Lost
+Karen,Martinez,karen.martinez25@example.com,555-288-8792,Stark Industries,New
+James,Davis,james.davis11@example.com,555-317-7775,Initech,New
+Sarah,Williams,sarah.williams33@example.com,555-113-9043,Hooli,New
+Sarah,Hernandez,sarah.hernandez6@example.com,555-463-4164,Initech,Lost
+Linda,Hernandez,linda.hernandez53@example.com,555-830-7927,Cyberdyne Systems,Qualified
+Mary,Anderson,mary.anderson46@example.com,555-406-6783,Massive Dynamic,Lost
+Mary,Davis,mary.davis98@example.com,555-894-5108,Wayne Enterprises,Contacted
+Michael,Taylor,michael.taylor69@example.com,555-789-6666,Massive Dynamic,Contacted
+Michael,Jackson,michael.jackson29@example.com,555-992-3298,Cyberdyne Systems,Contacted
+Patricia,Taylor,patricia.taylor4@example.com,555-774-8378,Initech,New
+James,Smith,james.smith23@example.com,555-574-1376,Umbrella Corp,Qualified
+Elizabeth,Smith,elizabeth.smith17@example.com,555-555-9247,Stark Industries,Contacted
+John,Miller,john.miller93@example.com,555-149-9381,Hooli,New
+Sarah,Lopez,sarah.lopez45@example.com,555-698-9880,Wayne Enterprises,Contacted
+Elizabeth,Anderson,elizabeth.anderson85@example.com,555-965-1701,Global Tech,New
+Michael,Thomas,michael.thomas89@example.com,555-945-3223,Cyberdyne Systems,Qualified
+John,Martinez,john.martinez58@example.com,555-993-3129,Stark Industries,New
+Mary,Jackson,mary.jackson54@example.com,555-925-7211,Cyberdyne Systems,New
+Richard,Taylor,richard.taylor16@example.com,555-545-6061,Stark Industries,New
+Michael,Martinez,michael.martinez11@example.com,555-974-7961,Wayne Enterprises,Qualified
+Karen,Miller,karen.miller11@example.com,555-285-9158,Stark Industries,Contacted
+John,Lopez,john.lopez74@example.com,555-541-1717,Hooli,Lost
+Michael,Martin,michael.martin12@example.com,555-922-6865,Global Tech,Qualified
+John,Rodriguez,john.rodriguez81@example.com,555-591-7788,Pied Piper,Contacted
+Jessica,Davis,jessica.davis49@example.com,555-907-6807,Massive Dynamic,Contacted
+Elizabeth,Jackson,elizabeth.jackson50@example.com,555-218-2261,Stark Industries,Lost
+Elizabeth,Lopez,elizabeth.lopez95@example.com,555-110-8092,Acme Corp,Qualified
+Mary,Davis,mary.davis27@example.com,555-666-7886,Stark Industries,New
+Patricia,Martin,patricia.martin5@example.com,555-479-9797,Wayne Enterprises,New
+Barbara,Taylor,barbara.taylor71@example.com,555-895-2679,Pied Piper,New
+Linda,Martinez,linda.martinez94@example.com,555-602-1222,Massive Dynamic,Contacted
+Joseph,Rodriguez,joseph.rodriguez39@example.com,555-701-8796,Pied Piper,Lost
+Joseph,Lopez,joseph.lopez37@example.com,555-456-6056,Cyberdyne Systems,New
+Linda,Taylor,linda.taylor28@example.com,555-695-9432,Initech,New
+Robert,Martinez,robert.martinez30@example.com,555-369-8854,Hooli,New
+Barbara,Garcia,barbara.garcia15@example.com,555-149-6115,Global Tech,New
+William,Garcia,william.garcia70@example.com,555-166-4035,Stark Industries,Lost
+Robert,Miller,robert.miller3@example.com,555-693-4841,Hooli,Qualified
+John,Johnson,john.johnson85@example.com,555-279-4278,Global Tech,Contacted
+Joseph,Gonzalez,joseph.gonzalez94@example.com,555-348-5595,Umbrella Corp,Lost
+Linda,Rodriguez,linda.rodriguez1@example.com,555-275-9550,Massive Dynamic,New
+Michael,Hernandez,michael.hernandez33@example.com,555-916-1907,Acme Corp,Qualified
+Charles,Johnson,charles.johnson11@example.com,555-221-1598,Global Tech,Qualified
+Richard,Brown,richard.brown82@example.com,555-490-6558,Acme Corp,Qualified
+Michael,Lopez,michael.lopez25@example.com,555-159-2648,Wayne Enterprises,New
+William,Davis,william.davis23@example.com,555-894-8252,Stark Industries,Contacted
+Susan,Anderson,susan.anderson39@example.com,555-326-6203,Wayne Enterprises,New
+Patricia,Moore,patricia.moore96@example.com,555-174-7647,Cyberdyne Systems,Contacted
+Joseph,Lopez,joseph.lopez68@example.com,555-418-5921,Stark Industries,Contacted
+Jennifer,Lopez,jennifer.lopez71@example.com,555-805-1132,Wayne Enterprises,New
+James,Rodriguez,james.rodriguez89@example.com,555-926-7166,Global Tech,Lost
+Sarah,Garcia,sarah.garcia5@example.com,555-739-7388,Stark Industries,Lost
+Patricia,Martin,patricia.martin15@example.com,555-684-5967,Acme Corp,Lost
+Barbara,Williams,barbara.williams64@example.com,555-459-2131,Global Tech,New
+Barbara,Thomas,barbara.thomas3@example.com,555-258-6741,Pied Piper,Contacted
+Jennifer,Smith,jennifer.smith2@example.com,555-158-6528,Cyberdyne Systems,New
+Patricia,Hernandez,patricia.hernandez74@example.com,555-422-3670,Wayne Enterprises,Contacted
+David,Rodriguez,david.rodriguez4@example.com,555-288-7691,Wayne Enterprises,Lost
+Richard,Garcia,richard.garcia35@example.com,555-139-9986,Cyberdyne Systems,Lost
+Jennifer,Brown,jennifer.brown63@example.com,555-838-8060,Initech,Contacted
+Michael,Miller,michael.miller95@example.com,555-277-7638,Massive Dynamic,Contacted
+Thomas,Davis,thomas.davis76@example.com,555-502-7925,Global Tech,Lost
+James,Thomas,james.thomas40@example.com,555-266-7282,Massive Dynamic,Qualified
+Michael,Taylor,michael.taylor39@example.com,555-790-8694,Initech,Contacted
+Barbara,Hernandez,barbara.hernandez39@example.com,555-591-3042,Initech,Lost
+Susan,Hernandez,susan.hernandez51@example.com,555-698-3207,Global Tech,Contacted
+Jennifer,Moore,jennifer.moore75@example.com,555-617-7381,Global Tech,Lost
+Jennifer,Martinez,jennifer.martinez26@example.com,555-834-2668,Cyberdyne Systems,Qualified
+James,Wilson,james.wilson87@example.com,555-515-3712,Acme Corp,Contacted
+Sarah,Davis,sarah.davis33@example.com,555-225-3822,Hooli,Contacted
+James,Taylor,james.taylor93@example.com,555-101-8232,Pied Piper,New
+John,Anderson,john.anderson79@example.com,555-444-9381,Hooli,Qualified
+Charles,Moore,charles.moore79@example.com,555-507-4048,Hooli,Lost
+John,Moore,john.moore33@example.com,555-101-1766,Hooli,Qualified
+Jennifer,Lopez,jennifer.lopez16@example.com,555-234-3746,Global Tech,Qualified
+Joseph,Taylor,joseph.taylor37@example.com,555-787-4131,Umbrella Corp,Qualified
+Jennifer,Martin,jennifer.martin70@example.com,555-955-4929,Stark Industries,New
+Patricia,Miller,patricia.miller40@example.com,555-901-1400,Wayne Enterprises,Qualified
+David,Taylor,david.taylor18@example.com,555-439-4864,Pied Piper,Qualified
+James,Johnson,james.johnson66@example.com,555-435-8200,Umbrella Corp,New
+David,Jones,david.jones28@example.com,555-985-5368,Pied Piper,Qualified
+John,Martin,john.martin40@example.com,555-307-2563,Massive Dynamic,Contacted
+Jessica,Gonzalez,jessica.gonzalez67@example.com,555-352-7647,Initech,Qualified
+David,Anderson,david.anderson25@example.com,555-320-6347,Cyberdyne Systems,Contacted
+James,Gonzalez,james.gonzalez3@example.com,555-602-5115,Global Tech,Lost
+Joseph,Williams,joseph.williams98@example.com,555-576-5926,Stark Industries,Contacted
+William,Lopez,william.lopez78@example.com,555-372-9532,Hooli,Contacted
+Mary,Martinez,mary.martinez9@example.com,555-228-7909,Massive Dynamic,New
+Karen,Hernandez,karen.hernandez14@example.com,555-962-2721,Wayne Enterprises,Lost
+John,Wilson,john.wilson89@example.com,555-240-6914,Pied Piper,Lost
+Michael,Jackson,michael.jackson82@example.com,555-348-3681,Acme Corp,Lost
+David,Thomas,david.thomas74@example.com,555-466-2414,Umbrella Corp,Contacted
+John,Brown,john.brown28@example.com,555-215-9737,Hooli,Qualified
+Thomas,Williams,thomas.williams42@example.com,555-865-3985,Massive Dynamic,Lost
+Barbara,Miller,barbara.miller33@example.com,555-701-6508,Global Tech,Lost
+Robert,Lopez,robert.lopez26@example.com,555-328-5376,Hooli,New
+Thomas,Brown,thomas.brown94@example.com,555-201-5080,Acme Corp,Contacted
+Karen,Gonzalez,karen.gonzalez36@example.com,555-274-8574,Initech,Qualified
+Jessica,Gonzalez,jessica.gonzalez4@example.com,555-182-3282,Cyberdyne Systems,New
+Richard,Miller,richard.miller54@example.com,555-485-2816,Cyberdyne Systems,Lost
+Michael,Jones,michael.jones8@example.com,555-467-2233,Initech,Qualified
+Joseph,Anderson,joseph.anderson9@example.com,555-254-8408,Umbrella Corp,Qualified
+Linda,Jones,linda.jones76@example.com,555-824-2652,Umbrella Corp,Qualified
+Michael,Martinez,michael.martinez57@example.com,555-582-8969,Wayne Enterprises,Lost
+Robert,Smith,robert.smith8@example.com,555-612-3449,Acme Corp,Qualified
+Susan,Wilson,susan.wilson69@example.com,555-702-7264,Hooli,Lost
+Michael,Taylor,michael.taylor98@example.com,555-194-8846,Pied Piper,Contacted
+Linda,Johnson,linda.johnson82@example.com,555-130-5117,Global Tech,Lost
+Patricia,Martinez,patricia.martinez80@example.com,555-461-4260,Cyberdyne Systems,Lost
+Charles,Lopez,charles.lopez3@example.com,555-864-6882,Wayne Enterprises,Lost
+James,Garcia,james.garcia60@example.com,555-145-9094,Acme Corp,Contacted
+Susan,Anderson,susan.anderson14@example.com,555-258-4943,Pied Piper,Contacted
+William,Thomas,william.thomas91@example.com,555-957-2884,Stark Industries,Lost
+Mary,Hernandez,mary.hernandez54@example.com,555-626-3484,Stark Industries,Lost
+Elizabeth,Jones,elizabeth.jones67@example.com,555-187-7220,Cyberdyne Systems,Qualified
+Linda,Moore,linda.moore99@example.com,555-517-1403,Cyberdyne Systems,Contacted
+James,Brown,james.brown9@example.com,555-384-1559,Massive Dynamic,Qualified
+Charles,Lopez,charles.lopez2@example.com,555-132-7630,Acme Corp,Lost
+David,Martin,david.martin92@example.com,555-926-6222,Wayne Enterprises,Contacted
+William,Jones,william.jones98@example.com,555-346-9292,Hooli,New
+Joseph,Smith,joseph.smith80@example.com,555-431-2079,Hooli,Lost
+Charles,Miller,charles.miller18@example.com,555-504-3253,Hooli,New
+Susan,Johnson,susan.johnson33@example.com,555-387-2402,Umbrella Corp,New
+Michael,Brown,michael.brown11@example.com,555-408-3950,Umbrella Corp,New
+Sarah,Gonzalez,sarah.gonzalez78@example.com,555-352-8645,Acme Corp,Qualified
+Charles,Brown,charles.brown47@example.com,555-429-6609,Global Tech,New
+James,Williams,james.williams10@example.com,555-672-8375,Cyberdyne Systems,Contacted
+Sarah,Smith,sarah.smith18@example.com,555-111-1742,Hooli,Qualified
+Patricia,Davis,patricia.davis44@example.com,555-865-5084,Initech,Contacted
+David,Wilson,david.wilson96@example.com,555-199-9507,Wayne Enterprises,Contacted
+Joseph,Rodriguez,joseph.rodriguez55@example.com,555-476-9470,Umbrella Corp,Lost
+Richard,Miller,richard.miller42@example.com,555-885-3657,Pied Piper,Contacted
+Joseph,Martin,joseph.martin86@example.com,555-311-4921,Initech,Qualified
+Linda,Taylor,linda.taylor2@example.com,555-935-6962,Initech,Contacted
+James,Moore,james.moore33@example.com,555-983-3709,Acme Corp,Lost
+Jennifer,Rodriguez,jennifer.rodriguez85@example.com,555-752-8671,Global Tech,Contacted
+Richard,Anderson,richard.anderson56@example.com,555-756-1989,Massive Dynamic,New
+John,Rodriguez,john.rodriguez24@example.com,555-945-3336,Stark Industries,Lost
+Susan,Taylor,susan.taylor18@example.com,555-692-8863,Acme Corp,Contacted
+Joseph,Hernandez,joseph.hernandez73@example.com,555-203-8474,Hooli,New
+Richard,Thomas,richard.thomas94@example.com,555-932-9996,Stark Industries,Lost
+Charles,Anderson,charles.anderson11@example.com,555-760-8421,Umbrella Corp,Contacted
+Michael,Martin,michael.martin3@example.com,555-248-9739,Massive Dynamic,New
+Robert,Hernandez,robert.hernandez51@example.com,555-706-3157,Wayne Enterprises,New
+Susan,Garcia,susan.garcia70@example.com,555-885-7608,Acme Corp,New
+Jessica,Martin,jessica.martin51@example.com,555-634-7104,Stark Industries,Lost
+Sarah,Wilson,sarah.wilson66@example.com,555-369-3179,Global Tech,New
+Elizabeth,Johnson,elizabeth.johnson91@example.com,555-613-2145,Initech,Lost
+Jessica,Jones,jessica.jones69@example.com,555-893-9087,Pied Piper,Contacted
+Susan,Martin,susan.martin14@example.com,555-909-5441,Global Tech,Lost
+Joseph,Thomas,joseph.thomas15@example.com,555-632-5650,Wayne Enterprises,Lost
+Barbara,Brown,barbara.brown70@example.com,555-828-3622,Hooli,Lost
+Michael,Martin,michael.martin26@example.com,555-651-5448,Global Tech,New
+Robert,Williams,robert.williams40@example.com,555-440-6524,Global Tech,Lost
+John,Thomas,john.thomas47@example.com,555-907-9660,Global Tech,Qualified
+William,Smith,william.smith21@example.com,555-921-8763,Pied Piper,Lost
+Elizabeth,Wilson,elizabeth.wilson80@example.com,555-407-6431,Cyberdyne Systems,Qualified
+Jennifer,Rodriguez,jennifer.rodriguez96@example.com,555-638-1477,Hooli,Qualified
+William,Rodriguez,william.rodriguez57@example.com,555-843-4902,Umbrella Corp,Lost
+Mary,Thomas,mary.thomas91@example.com,555-761-1662,Stark Industries,Qualified
+John,Hernandez,john.hernandez50@example.com,555-690-1027,Wayne Enterprises,Qualified
+Joseph,Anderson,joseph.anderson48@example.com,555-134-9737,Cyberdyne Systems,Lost
+Thomas,Anderson,thomas.anderson94@example.com,555-250-1703,Umbrella Corp,Qualified
+Richard,Garcia,richard.garcia81@example.com,555-875-6254,Cyberdyne Systems,Lost
+Joseph,Davis,joseph.davis78@example.com,555-467-8149,Acme Corp,Lost
+Karen,Gonzalez,karen.gonzalez47@example.com,555-618-8809,Acme Corp,New
+Mary,Martinez,mary.martinez71@example.com,555-327-6717,Hooli,New
+Linda,Williams,linda.williams56@example.com,555-519-7687,Pied Piper,Qualified
+Jessica,Davis,jessica.davis92@example.com,555-159-4054,Global Tech,New
+Barbara,Garcia,barbara.garcia23@example.com,555-353-6219,Massive Dynamic,Lost
+Linda,Jones,linda.jones68@example.com,555-567-6999,Umbrella Corp,Lost
+Jennifer,Davis,jennifer.davis72@example.com,555-776-2472,Umbrella Corp,Lost
+Michael,Miller,michael.miller91@example.com,555-181-8641,Initech,New
+William,Jackson,william.jackson65@example.com,555-159-4700,Umbrella Corp,Contacted
+John,Rodriguez,john.rodriguez38@example.com,555-681-4401,Wayne Enterprises,Lost
+Sarah,Gonzalez,sarah.gonzalez65@example.com,555-646-2222,Wayne Enterprises,New
+Mary,Smith,mary.smith86@example.com,555-951-2255,Global Tech,Qualified
+Patricia,Rodriguez,patricia.rodriguez66@example.com,555-619-2221,Cyberdyne Systems,Qualified
+William,Moore,william.moore54@example.com,555-606-4431,Wayne Enterprises,Qualified
+Joseph,Thomas,joseph.thomas31@example.com,555-529-5085,Cyberdyne Systems,Qualified
+Mary,Jackson,mary.jackson77@example.com,555-884-3044,Initech,Contacted
+Mary,Jackson,mary.jackson89@example.com,555-664-4075,Stark Industries,Contacted
+William,Anderson,william.anderson62@example.com,555-210-3709,Acme Corp,New
+Mary,Jones,mary.jones15@example.com,555-184-1346,Stark Industries,Contacted
+David,Lopez,david.lopez69@example.com,555-623-8154,Pied Piper,New
+Thomas,Hernandez,thomas.hernandez85@example.com,555-719-5575,Hooli,Contacted
+David,Moore,david.moore18@example.com,555-729-4348,Hooli,Contacted
+Richard,Wilson,richard.wilson93@example.com,555-893-8613,Wayne Enterprises,Contacted
+Jennifer,Rodriguez,jennifer.rodriguez15@example.com,555-839-8069,Umbrella Corp,Lost
+Jessica,Wilson,jessica.wilson80@example.com,555-486-8156,Umbrella Corp,New
+Elizabeth,Martin,elizabeth.martin97@example.com,555-109-2066,Wayne Enterprises,Contacted
+Thomas,Rodriguez,thomas.rodriguez67@example.com,555-679-2701,Global Tech,Qualified
+Thomas,Lopez,thomas.lopez9@example.com,555-361-9990,Cyberdyne Systems,Lost
+Charles,Williams,charles.williams16@example.com,555-547-3584,Umbrella Corp,Qualified
+Sarah,Rodriguez,sarah.rodriguez27@example.com,555-466-2617,Acme Corp,Contacted
+Sarah,Taylor,sarah.taylor4@example.com,555-233-8751,Pied Piper,New
+Mary,Anderson,mary.anderson3@example.com,555-830-1478,Wayne Enterprises,Contacted
+John,Jones,john.jones28@example.com,555-293-1146,Stark Industries,Qualified
+Sarah,Moore,sarah.moore53@example.com,555-629-2342,Global Tech,New
+Susan,Martinez,susan.martinez9@example.com,555-744-7758,Global Tech,Lost
+Karen,Davis,karen.davis88@example.com,555-894-4702,Hooli,Lost
+Elizabeth,Gonzalez,elizabeth.gonzalez5@example.com,555-298-6009,Acme Corp,Qualified
+Barbara,Miller,barbara.miller1@example.com,555-554-1858,Acme Corp,New
+Charles,Johnson,charles.johnson73@example.com,555-964-4110,Acme Corp,Contacted
+Mary,Moore,mary.moore64@example.com,555-163-1822,Pied Piper,Contacted
+Barbara,Williams,barbara.williams24@example.com,555-566-8511,Umbrella Corp,Lost
+Jessica,Smith,jessica.smith1@example.com,555-989-7526,Wayne Enterprises,Lost
+Mary,Taylor,mary.taylor82@example.com,555-702-5344,Pied Piper,Contacted
+Patricia,Martin,patricia.martin23@example.com,555-137-9028,Global Tech,Contacted
+Michael,Davis,michael.davis39@example.com,555-170-1758,Stark Industries,Qualified
+Joseph,Jones,joseph.jones32@example.com,555-492-2036,Cyberdyne Systems,New
+Charles,Miller,charles.miller12@example.com,555-808-2861,Initech,Lost
+Charles,Taylor,charles.taylor1@example.com,555-570-5814,Acme Corp,Qualified
+Mary,Hernandez,mary.hernandez88@example.com,555-986-3613,Initech,Contacted
+Jessica,Lopez,jessica.lopez51@example.com,555-167-5192,Massive Dynamic,New
+Sarah,Anderson,sarah.anderson49@example.com,555-974-1769,Global Tech,Qualified
+Charles,Johnson,charles.johnson98@example.com,555-164-3272,Acme Corp,Contacted
+Sarah,Jackson,sarah.jackson3@example.com,555-570-2133,Acme Corp,Lost
+Patricia,Miller,patricia.miller53@example.com,555-358-6277,Global Tech,Qualified
+Jessica,Jackson,jessica.jackson20@example.com,555-800-1490,Initech,Qualified
+Charles,Wilson,charles.wilson89@example.com,555-454-7806,Wayne Enterprises,Contacted
+Richard,Hernandez,richard.hernandez92@example.com,555-695-6992,Global Tech,Qualified
+David,Taylor,david.taylor83@example.com,555-685-3441,Global Tech,Qualified
+Patricia,Taylor,patricia.taylor79@example.com,555-901-3687,Wayne Enterprises,New
+Mary,Moore,mary.moore77@example.com,555-644-3604,Cyberdyne Systems,Qualified
+Sarah,Garcia,sarah.garcia5@example.com,555-972-3869,Hooli,New
+Linda,Hernandez,linda.hernandez29@example.com,555-883-2669,Massive Dynamic,Contacted
+William,Martinez,william.martinez28@example.com,555-542-3934,Initech,Qualified
+Sarah,Hernandez,sarah.hernandez2@example.com,555-560-2865,Massive Dynamic,Lost
+Mary,Lopez,mary.lopez18@example.com,555-893-8007,Hooli,Lost
+Michael,Wilson,michael.wilson77@example.com,555-677-2025,Umbrella Corp,New
+Jessica,Thomas,jessica.thomas18@example.com,555-218-5635,Initech,New
+David,Martin,david.martin32@example.com,555-357-2781,Wayne Enterprises,Qualified
+Thomas,Miller,thomas.miller26@example.com,555-254-8566,Acme Corp,New
+Robert,Wilson,robert.wilson55@example.com,555-455-2109,Umbrella Corp,Lost
+David,Wilson,david.wilson42@example.com,555-634-3226,Hooli,New
+William,Anderson,william.anderson24@example.com,555-937-9520,Umbrella Corp,New
+Sarah,Johnson,sarah.johnson96@example.com,555-340-1007,Cyberdyne Systems,Lost
+Karen,Martinez,karen.martinez81@example.com,555-940-2290,Umbrella Corp,Lost
+William,Martin,william.martin35@example.com,555-966-5945,Massive Dynamic,New
+Jessica,Wilson,jessica.wilson32@example.com,555-263-3628,Acme Corp,New
+Karen,Thomas,karen.thomas54@example.com,555-978-5755,Initech,New
+James,Gonzalez,james.gonzalez25@example.com,555-215-5862,Massive Dynamic,New
+Mary,Taylor,mary.taylor16@example.com,555-278-6471,Massive Dynamic,Contacted
+William,Williams,william.williams82@example.com,555-380-7311,Acme Corp,Lost
+Patricia,Hernandez,patricia.hernandez46@example.com,555-167-9367,Global Tech,Contacted
+John,Brown,john.brown41@example.com,555-846-2517,Cyberdyne Systems,Qualified
+David,Gonzalez,david.gonzalez94@example.com,555-260-9568,Stark Industries,New
+Richard,Brown,richard.brown74@example.com,555-172-8813,Wayne Enterprises,Qualified
+Susan,Rodriguez,susan.rodriguez71@example.com,555-568-6315,Initech,Qualified
+Joseph,Jones,joseph.jones75@example.com,555-576-2299,Stark Industries,New
+Jessica,Hernandez,jessica.hernandez37@example.com,555-413-8844,Wayne Enterprises,New
+David,Brown,david.brown53@example.com,555-244-3028,Pied Piper,New
+Charles,Thomas,charles.thomas11@example.com,555-897-3142,Global Tech,Qualified
+Karen,Davis,karen.davis58@example.com,555-233-8694,Wayne Enterprises,Contacted
+Elizabeth,Davis,elizabeth.davis51@example.com,555-813-5912,Acme Corp,Qualified
+Sarah,Wilson,sarah.wilson51@example.com,555-619-7841,Stark Industries,Lost
+Joseph,Lopez,joseph.lopez19@example.com,555-502-3617,Initech,Qualified
+Jessica,Martinez,jessica.martinez82@example.com,555-220-9755,Hooli,Lost
+Karen,Smith,karen.smith66@example.com,555-457-8452,Massive Dynamic,New
+Patricia,Moore,patricia.moore35@example.com,555-309-6811,Initech,New
+Richard,Lopez,richard.lopez11@example.com,555-507-9438,Acme Corp,Contacted
+William,Taylor,william.taylor39@example.com,555-407-1936,Massive Dynamic,Qualified
+Jessica,Wilson,jessica.wilson88@example.com,555-596-7639,Umbrella Corp,New
+Joseph,Jones,joseph.jones59@example.com,555-731-4624,Pied Piper,New
+John,Moore,john.moore40@example.com,555-560-5155,Massive Dynamic,New
+Susan,Smith,susan.smith32@example.com,555-765-5000,Stark Industries,New
+William,Moore,william.moore97@example.com,555-497-6548,Acme Corp,New
+Susan,Jones,susan.jones46@example.com,555-802-3947,Initech,Qualified
+Sarah,Johnson,sarah.johnson41@example.com,555-355-5182,Wayne Enterprises,Lost
+Linda,Gonzalez,linda.gonzalez57@example.com,555-941-1762,Cyberdyne Systems,New
+David,Gonzalez,david.gonzalez88@example.com,555-609-8074,Massive Dynamic,Lost
+Linda,Williams,linda.williams7@example.com,555-964-7772,Hooli,Contacted
+Charles,Hernandez,charles.hernandez95@example.com,555-890-6662,Massive Dynamic,Lost
+Patricia,Thomas,patricia.thomas96@example.com,555-298-2880,Wayne Enterprises,Lost
+Joseph,Williams,joseph.williams28@example.com,555-948-3410,Acme Corp,Contacted
+Richard,Jones,richard.jones92@example.com,555-662-1537,Hooli,New

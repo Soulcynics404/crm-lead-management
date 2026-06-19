@@ -230,55 +230,24 @@ Login with your Google account and start managing leads! 🎉
 
 ---
 
-## 📤 Upload to GitHub
+## 📋 Demo Leads Generation
 
-### First Time Setup
+A custom script is included to generate random demo leads in both CSV and HTML formats for testing purposes.
 
-```bash
-# Navigate to the project folder
-cd "/home/soulcynics/Desktop/CRM LEAD"
+### Included Files
+The following demo files have been generated:
+- `demo_leads_50.csv` / `demo_leads_50.html` (50 leads)
+- `demo_leads_100.csv` / `demo_leads_100.html` (100 leads)
+- `demo_leads_500.csv` / `demo_leads_500.html` (500 leads)
 
-# Initialize Git repository
-git init
-
-# Add all files
-git add .
-
-# Create initial commit
-git commit -m "🚀 Initial commit - HK CRM Lead Management System"
-
-# Create repository on GitHub:
-#   1. Go to https://github.com/new
-#   2. Repository name: crm-lead-management
-#   3. Keep it Public (for faculty access)
-#   4. Do NOT initialize with README (we already have one)
-#   5. Click "Create repository"
-
-# Connect to GitHub (replace YOUR_USERNAME with your GitHub username)
-git remote add origin https://github.com/YOUR_USERNAME/crm-lead-management.git
-
-# Push the code
-git branch -M main
-git push -u origin main
-```
-
-### Update Code on GitHub (after making changes)
+### How to Generate More
+You can modify and run the `generate_demo_leads.py` script to generate custom datasets:
 
 ```bash
-git add .
-git commit -m "Your commit message here"
-git push
+python3 generate_demo_leads.py
 ```
 
-### Important: Create `.gitignore`
-
-The project already includes a `.gitignore` that excludes:
-- `vendor/` (PHP dependencies — installed via `composer install`)
-- `node_modules/` (JS dependencies — installed via `npm install`)
-- `.env` (contains secrets — use `.env.example` as template)
-- `storage/` logs and cache files
-
-> ⚠️ **Never push `.env` to GitHub** — it contains your Firebase API key and database password!
+This will automatically create new CSV and HTML files in your root directory.
 
 ---
 
